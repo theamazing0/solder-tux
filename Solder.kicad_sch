@@ -1526,7 +1526,7 @@
 				)
 			)
 		)
-		(property "Value" "R 1k"
+		(property "Value" "R 220"
 			(at 133.35 99.06 90)
 			(effects
 				(font
@@ -1730,7 +1730,7 @@
 				)
 			)
 		)
-		(property "Value" "R 1k"
+		(property "Value" "R 220"
 			(at 95.25 113.03 90)
 			(effects
 				(font
@@ -1868,7 +1868,7 @@
 				)
 			)
 		)
-		(property "Value" "R 1k"
+		(property "Value" "R 220"
 			(at 102.87 72.39 90)
 			(effects
 				(font
@@ -1936,7 +1936,7 @@
 				)
 			)
 		)
-		(property "Value" "R 1k"
+		(property "Value" "R 220"
 			(at 166.37 99.06 90)
 			(effects
 				(font
@@ -2281,7 +2281,7 @@
 				)
 			)
 		)
-		(property "Value" "R 1k"
+		(property "Value" "R 220"
 			(at 95.25 88.9 90)
 			(effects
 				(font
